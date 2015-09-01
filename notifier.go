@@ -1,4 +1,4 @@
-package gobrake // import "gopkg.in/airbrake/gobrake.v2"
+package gobrake
 
 import (
 	"bytes"

@@ -13,7 +13,7 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"gopkg.in/airbrake/gobrake.v2"
+	"github.com/sendgrid/gobrake"
 )
 
 func TestGobrake(t *testing.T) {
